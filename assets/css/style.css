@@ -1,3 +1,5 @@
+/*changed order according to html order*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -77,9 +79,10 @@ p {
     margin-right: 25px;
 }
 
+/*edited float-right*/
 .float-right {
     float: right;
-    margin-left: 25px;
+    margin-right: 25px;
 }
 
 .content {
@@ -88,7 +91,7 @@ p {
     margin-left: 20px;
 }
 
-
+/*changed following to id tag instead of class*/
 
 #search-engine-optimization {
     margin-bottom: 20px;
@@ -125,13 +128,13 @@ p {
     max-height: 200px;
 }
 
-.social-media-marketing img {
-    max-height: 200px;
+.social-media-marketing img { /*changed photo size to 210px to match rest of*/
+    max-height: 210px;
 }
 
 
 
-.benefits {
+.benefits { /*changed height to match one in homework photo*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -174,9 +177,19 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*adjusted bottom margin increased by 20px for the following*/
 .benefit-lead h3 {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+/*added additional class to match lead*/
+.benefit-brand h3 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 30px;
     text-align: center;
 }
 
