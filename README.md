@@ -1,6 +1,6 @@
-# Your Project Title
+# HW1-Refactor
 
-## Description 
+## Clear and easy to read front to back end.
 
 Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
 
