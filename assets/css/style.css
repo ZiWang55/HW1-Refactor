@@ -1,11 +1,13 @@
-/*changed order according to html order*/
+    /*changed order according to html order*/
+
+    /*every comment indented is edits I've made*/
 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*background color*/
 body {
     background-color: #d9dcd6;
 }
@@ -21,11 +23,11 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/*partial color change to header "Horiseon"*/
 .header h1 .seo {
     color: lightgrey;
 }
-
+/*header border style*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -42,15 +44,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*article style*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*paragraph style*/
 p {
     font-size: 16px;
 }
+/*access links*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -72,17 +75,21 @@ p {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
+    overflow: hidden;
+    /*image was stretching after move to html, added tag to avoid problem*/
+    object-fit: cover; 
 }
-
+/*image float properties for main article section*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/*edited float-right*/
+/*edited float-right, */
 .float-right {
     float: right;
-    margin-right: 25px;
+    /*changed margin to left*/
+    margin-left: 25px; 
 }
 
 .content {
@@ -91,8 +98,8 @@ p {
     margin-left: 20px;
 }
 
-/*changed following to id tag instead of class*/
-
+/*article border style*/
+    /*changed following to id tag instead of class*/
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +126,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*article img size*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -128,22 +135,24 @@ p {
     max-height: 200px;
 }
 
-.social-media-marketing img { /*changed photo size to 210px to match rest of*/
+.social-media-marketing img { 
+    /*changed photo size to 210px to match rest of the imgs*/
     max-height: 210px;
 }
 
-
-
-.benefits { /*changed height to match one in homework photo*/
+/*aside section to the right of the webpage*/
+.benefits { 
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
+    /*changed height to match one in homework photo*/
     height: 1000px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/*aside section img style*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -162,7 +171,6 @@ p {
     max-width: 150px;
 }
 
-
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -177,13 +185,16 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*adjusted bottom margin increased by 20px for the following*/
+
+/*aside section title styles*/
 .benefit-lead h3 {
+    /*adjusted bottom margin increased by 20px for the following*/
     margin-bottom: 30px;
     text-align: center;
 }
-/*added additional class to match lead*/
+
 .benefit-brand h3 {
+    /*added additional class to match lead*/
     margin-bottom: 30px;
     text-align: center;
 }
@@ -192,7 +203,7 @@ p {
     margin-bottom: 30px;
     text-align: center;
 }
-
+/*footer section*/
 .footer {
     padding: 30px;
     clear: both;
