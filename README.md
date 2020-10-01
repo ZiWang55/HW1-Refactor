@@ -2,25 +2,25 @@
 
 ## Clear and easy to read front to back end, made changes to html and css file to ensure that links works properly and everything is lined up correctly.
 
-1.Following changes made to index.html: 
-..*Fixed "Search Engine Optimization" link function
-..*Added website title "Horiseon Webpage"
-..*Sorted tag lines
-..*Added descriptive tag lines
-..*Added descriptive alt tag to images
-..*Added descriptive comments in correct areas
-..*Moved in the cover img from css
-..*Added semantic elements that describes the area
+*Following changes made to index.html: 
+    *Fixed "Search Engine Optimization" link function
+    *Added website title "Horiseon Webpage"
+    *Sorted tag lines
+    *Added descriptive tag lines
+    *Added descriptive alt tag to images
+    *Added descriptive comments in correct areas
+    *Moved in the cover img from css
+    *Added semantic elements that describes the area
 
 
-Following changes made to style.css
-*Moved the cover img url into html file
-*Added discription comments on both changes and area of work
-*Organized css according to html layout
-*Changed "online reputation management" to float right instead of left
-*Article boarder style changed the reference to ID instead of class
-*Changed "social-media-marketing" img size to match the rest
-*Benefits container changed size and margin of each items inside
+*Following changes made to style.css
+    *Moved the cover img url into html file
+    *Added discription comments on both changes and area of work
+    *Organized css according to html layout
+    *Changed "online reputation management" to float right instead of left
+    *Article boarder style changed the reference to ID instead of class
+    *Changed "social-media-marketing" img size to match the rest
+    *Benefits container changed size and margin of each items inside
 
 ## Credits
 
