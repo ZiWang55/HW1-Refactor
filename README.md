@@ -32,7 +32,7 @@ Trilogy Education Services
 
 ## Badges
 
-![MyGitHub](https://img.shields.io/github/license/ZiWang55/HW1-Refactor)
+![MyGitHub](https://img.shields.io/github/license/ZiWang55/HW1-Refactor?color=green&label=Github&logo=HW1-Refactor&logoColor=white)
 
 ## Contributing
 
