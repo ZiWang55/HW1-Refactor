@@ -2,9 +2,9 @@
 
 ## Clear and easy to read front to back end, made changes to html and css file to ensure that links works properly and everything is lined up correctly.
 
-Following changes made to index.html: 
-*Fixed "Search Engine Optimization" link function
-*Added website title "Horiseon Webpage"
+-Following changes made to index.html: 
+    -Fixed "Search Engine Optimization" link function
+    -Added website title "Horiseon Webpage"
 *Sorted tag lines
 *Added descriptive tag lines
 *Added descriptive alt tag to images
