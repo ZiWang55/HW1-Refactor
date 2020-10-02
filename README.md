@@ -2,6 +2,9 @@
 
 ## Clear and easy to read front to back end, made changes to html and css file to ensure that links works properly and everything is lined up correctly.
 
+## Preview
+![Image of Horiseon](https://github.com/ZiWang55/HW1-Refactor/blob/master/assets/images/01-html-css-git-homework-demo.png?raw=true)
+
 * Following changes made to index.html: 
     * Fixed "Search Engine Optimization" link function
     * Added website title "Horiseon Webpage"
