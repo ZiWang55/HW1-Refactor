@@ -29,6 +29,7 @@ Trilogy Education Services
 
 - Using command: 'git clone https://github.com/ZiWang55/HW1-Refactor.git'
 - Using command: 'code .' to open with VScode
+- Link to access webpage https://ziwang55.github.io/HW1-Refactor/
 
 ## Badges
 
