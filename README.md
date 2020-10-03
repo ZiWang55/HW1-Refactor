@@ -34,10 +34,6 @@ Trilogy Education Services
 - Using command: 'code .' to open with VScode
 - Link to access webpage https://ziwang55.github.io/HW1-Refactor/
 
-## Badges
-
-![MyGitHub](https://img.shields.io/badge/Github-HW1--Refactor-Blue)
-
 ## Contributing
 
 Welcome changes and improvement. Please open issue in github before pull. Instructions are in installation.
