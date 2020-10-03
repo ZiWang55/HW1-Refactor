@@ -1,4 +1,4 @@
-# HW1-Refactor
+# Horiseon Webpage Readme
 
 ## Clear and easy to read front to back end, made changes to html and css file to ensure that links works properly and everything is lined up correctly.
 
@@ -36,7 +36,7 @@ Trilogy Education Services
 
 ## Badges
 
-![MyGitHub](https://img.shields.io/github/license/ZiWang55/HW1-Refactor?color=green&label=Github&logo=HW1-Refactor&logoColor=white)
+![MyGitHub](https://img.shields.io/badge/Github-HW1--Refactor-Blue)
 
 ## Contributing
 
